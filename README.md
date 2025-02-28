@@ -154,13 +154,7 @@ end
 cavarTunel()
 ```
 
----
 
-## 🚀 Próximos Passos
 
-- Experimente modificar os scripts para personalizar as construções.
-- Adicione **tochas** automaticamente dentro do túnel.
-- Programe uma **Turtle mineradora automática**!
 
-📌 **Dúvidas ou sugestões?** Fique à vontade para contribuir com melhorias no repositório! 😃
 
